@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# ---- 测试与覆盖率 ----
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ---- 编辑器 / IDE ----
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ---- 操作系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 本地生成的产物（模板 / 临时纪要）----
+我的会议.json
+我的会议纪要.md
+模板.json
+
+# ---- 日志 ----
+*.log
