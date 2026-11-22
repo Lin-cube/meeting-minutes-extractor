@@ -27,7 +27,7 @@
 ### 安装
 
 ```bash
-git clone https://github.com/WangChunYan/meeting-minutes-extractor.git
+git clone https://github.com/Lin-cube/meeting-minutes-extractor.git
 cd meeting-minutes-extractor
 # 无需安装任何依赖，仅需 Python 3.8+
 ```
